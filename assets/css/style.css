@@ -1,11 +1,3 @@
-/**
-* Template Name: DevFolio
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -100,7 +92,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #e9e9e9;
 }
 
 .overlay-mf {
@@ -759,7 +751,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: #fff;
+  color: #ffffff;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -992,7 +984,7 @@ a:hover {
 
 .work-content .w-more {
   color: #4e4e4e;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .work-content .w-more .w-ctegory {
@@ -1006,7 +998,7 @@ a:hover {
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: #0c0c0c;
 }
 
 .work-content .w-like .num-like {
@@ -1014,7 +1006,7 @@ a:hover {
 }
 
 .w-title {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 /*--------------------------------------------------------------
@@ -1116,9 +1108,9 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+  color: black;
   padding: 25px 0;
-  background: #0062d3;
+  background: #e9e9e9;
 }
 
 footer .copyright {
@@ -1127,13 +1119,13 @@ footer .copyright {
 
 footer .credits {
   margin-bottom: 0;
-  color: white;
-  background: #0062d3;
+  color: black;
+  background: #e9e9e9;
   font-size: .5rem;
 }
 
 footer .credits a {
-  color: white;
-  background: #0062d3;
+  color: black;
+  background: #e9e9e9;
   font-size: .5rem;
 }
